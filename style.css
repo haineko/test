@@ -1,8 +1,10 @@
 body{
+
     background-color: aquamarine;
     width: 920px;
     margin:  0 auto;
-}
-h1, p{
+
+h1{
+    font-size: 18px;
     color: white;
 }
