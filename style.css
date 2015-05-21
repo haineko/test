@@ -4,4 +4,8 @@ body{
 h1{
     font-size: 18px;
     color: darkgreen;
+	bolder: 3px solid lightgreen;
+}
+p {
+ color: green;
 }
