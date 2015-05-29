@@ -1,0 +1,9 @@
+html{ 
+  background-color: black; 
+  color: aliceblue;
+  font-size: 19px;
+}
+h1{
+  font-size: 3.4rem;
+}
+p{ font-size: 1.8rem; color: red}
