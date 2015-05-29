@@ -1,5 +1,11 @@
 body{
+<<<<<<< HEAD
     background-color: palegoldenrod;
+=======
+    background-color: aquamarine;
+    width: 920px;
+    margin:  0 auto;
+>>>>>>> set body width and margin
 }
 h1{
     font-size: 18px;
